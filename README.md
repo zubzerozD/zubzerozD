@@ -20,4 +20,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zubzerozD&theme=github-dark-blue&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?zubzerozD=anuraghazra&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight)
