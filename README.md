@@ -15,7 +15,11 @@
 
 <p align="center">
   <a href="https://github.com/zubzerozD?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zubzerozD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zubzerozD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=zubzerozD&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  </a>
 </p>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zubzerozD&theme=github-dark-blue&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)
