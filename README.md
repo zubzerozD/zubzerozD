@@ -26,6 +26,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight)
 
+![GitHub Graphic](https://github-readme-activity-graph.vercel.app/graph?username=zubzerozd&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubzerozD&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
