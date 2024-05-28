@@ -18,7 +18,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zubzerozD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
   <a>
-    <img src="https://visitcount.itsvg.in/api?id=zubzerozD&label=Profile%20Views&color=1&icon=5&pretty=true" />
+    <img src="https://profile-counter.glitch.me/zubzerozD/count.svg" />
   </a>
 </p>
 
