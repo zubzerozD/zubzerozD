@@ -6,7 +6,7 @@
     <h3 aling="center">I'am a developer</h3>
     <h3 aling="center">Nice brute force attempt.>
 
-    </div>
+</div>
 
 <p align="center">
   <a href="https://twitter.com/noob_saibot_py"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
