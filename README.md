@@ -4,7 +4,7 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM5Y2JmYTYzZjY1ZTg5ZTM5YmU3MWE5NjVjM2I4OTVmMTVhOWFlYyZjdD1n/XPgWHIXKs6iikOx5a1/giphy.gif" width="200" />
     <h1 aling="center">Hi I'am zubzerozD</h1>
     <h3 aling="center">I'am a developer</h3>
-    <h3 aling="center">Nice brute force attempt.>
+    <h3 aling="center">Nice brute force attempt.</h3>
 
 </div>
 
