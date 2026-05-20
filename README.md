@@ -31,8 +31,8 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubzerozD&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=zubzerozD&theme=tokyonight&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
