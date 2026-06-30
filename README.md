@@ -83,17 +83,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zubzerozD&theme=tokyonight&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zubzerozD&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=2ac3de&area_color=1a1b27&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
 </p>
 
 ---
