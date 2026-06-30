@@ -83,19 +83,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/zubzerozD">
-    <img src="https://github-readme-stats-xi-virid-71.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&timestamp=1" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats-xi-virid-71.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&timestamp=1" alt="GitHub Stats" />
   &nbsp;
-  <a href="https://github.com/zubzerozD">
-    <img src="https://github-readme-stats-xi-virid-71.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight&hide_border=true&timestamp=2" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats-xi-virid-71.vercel.app/api/top-langs?username=zubzerozD&layout=donut&theme=tokyonight&hide_border=true&timestamp=2" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zubzerozD">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zubzerozD&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=2ac3de&area_color=1a1b27&area=true&hide_border=true&timestamp=3" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-stats-xi-virid-71.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs&include_all_commits=true&timestamp=4" alt="Detailed Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-xi-virid-71.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight&hide_border=true&timestamp=5" alt="Top Languages Compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zubzerozD&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=2ac3de&area_color=1a1b27&area=true&hide_border=true&timestamp=3" alt="Activity Graph" />
 </p>
 
 ---
