@@ -92,6 +92,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/zubzerozD">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zubzerozD&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=2ac3de&area_color=1a1b27&area=true&hide_border=true&timestamp=3" alt="Activity Graph" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
