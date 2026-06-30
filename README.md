@@ -83,9 +83,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/zubzerozD">
+    <img src="https://github-readme-stats-hrishi-w.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/zubzerozD">
+    <img src="https://github-readme-stats-hrishi-w.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
