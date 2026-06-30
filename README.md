@@ -84,11 +84,11 @@
 
 <p align="center">
   <a href="https://github.com/zubzerozD">
-    <img src="https://github-readme-stats-b1g8shr57-zubzerozds-projects.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-xi-virid-71.vercel.app/api?username=zubzerozD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/zubzerozD">
-    <img src="https://github-readme-stats-b1g8shr57-zubzerozds-projects.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-xi-virid-71.vercel.app/api/top-langs?username=zubzerozD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
